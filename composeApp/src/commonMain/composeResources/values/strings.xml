@@ -1,0 +1,10 @@
+<resources>
+    <string name="main_screen_title">Olympic Ball Games</string>
+    <string name="btn_summer_games">Summer Olympic Games</string>
+    <string name="btn_famous_athletes">Famous Athletes</string>
+    <string name="data_set_btn_title">What about data set?</string>
+    <string name="data_set_title">Data set info</string>
+    <string name="touch_zone">Touch zone..</string>
+    <string name="score">Score:</string>
+    <string name="tap_area_title">Tap area</string>
+</resources>
